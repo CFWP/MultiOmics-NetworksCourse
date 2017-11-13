@@ -12,3 +12,4 @@ This repository can be cloned.
 One can also download the materials by pressing the green 'Clone or download' button and choosing 'Download ZIP'.
 
 Materials for the second part of the course can be found [here](https://github.com/wvanwie/networkCourse).
+This course has been given previously at the [2017 Channel Network Conference](http://www.uhasselt.be/channel-network-conference-2017) of the International Biometric Society.
